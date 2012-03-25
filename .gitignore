@@ -1,0 +1,19 @@
+# Credential Files#
+###################
+settings.*
+
+
+# Deployment      #
+###################
+deploy.bat
+
+
+# Compiled source #
+###################
+*.pyc
+*.o
+*.com
+*.class
+*.dll
+*.exe
+*.so
